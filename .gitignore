@@ -1,0 +1,5 @@
+**/.depends
+**/.objects
+avr-timers
+avr-timers.dump
+librb/librb.a
