@@ -1,5 +1,5 @@
 /*
- * Copyright 2013, 2014 Chris Rhodin <chris@notav8.com>
+ * Copyright 2013-2023 Chris Rhodin <chris@notav8.com>
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -73,6 +73,7 @@
  * use the A compare
  */
 #define TBTIMER_COMP A
+
 
 /*
  * initialize console before main
